@@ -1,3 +1,3 @@
 # Next + Supabase Starter
 
-## This Will be updated with Authentication later.
+This Will be updated with Authentication later.
