@@ -1,3 +1,10 @@
+import ShowUsers from "@/components/ShowUsers"
+
 export default function Home() {
-  return <div></div>
+  return (
+    <div>
+      <h1>Hi</h1>
+      <ShowUsers />
+    </div>
+  )
 }
